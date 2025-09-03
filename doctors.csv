@@ -1,0 +1,5 @@
+doctor_name,specialization,location,available_days,available_hours
+Dr. Smith,General Practice,Main Clinic,"Monday,Tuesday,Wednesday,Thursday,Friday",09:00-17:00
+Dr. Johnson,Cardiology,Heart Center,"Tuesday,Wednesday,Thursday",10:00-16:00
+Dr. Williams,Dermatology,Skin Clinic,"Monday,Wednesday,Friday",08:00-15:00
+Dr. Brown,Orthopedics,Bone & Joint Center,"Tuesday,Thursday,Friday",11:00-18:00
