@@ -10,3 +10,4 @@ langchain-openai==0.0.1
 openai==1.14.3
 requests==2.31.0
 python-dotenv==1.0.0
+setuptools>=67.0.0
